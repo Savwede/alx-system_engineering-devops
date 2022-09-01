@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 mrdir welcome/ welcom/to welcom/to/school
