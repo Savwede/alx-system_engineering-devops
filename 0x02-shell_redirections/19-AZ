@@ -1,2 +1,2 @@
 #!/bin/bash
-$input | tr A Z | tr c e | echo
+tr "AC" "Z" | tr "c" "e"
